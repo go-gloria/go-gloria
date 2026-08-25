@@ -7,8 +7,8 @@ Agricultura y la Minerías (CRHIAM).🌱
 
 ## 💡Habilidades Técnicas
 ✅ Python (pandas, numpy, matplotlib, seaborn)
-✅ SQL (MySQL, PostgreSQL)
-✅ Power BI
+✅ SQL (MySQL, PostgreSQL) 
+✅ Power BI 
 ✅ Modelado estadístico y regresión lineal
 ✅ Machine Learning básico (scikit-learn)
 <!--
