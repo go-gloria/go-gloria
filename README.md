@@ -6,11 +6,13 @@ Desde el año 2016 y hasta el 2025 me desempeñé como coordinadora del grupo de
 Agricultura y la Minerías (CRHIAM).🌱
 
 ## 💡Habilidades Técnicas
-✅ Python (pandas, numpy, matplotlib, seaborn)
-✅ SQL (MySQL, PostgreSQL) 
-✅ Power BI 
-✅ Modelado estadístico y regresión lineal
-✅ Machine Learning básico (scikit-learn)
+Python (pandas, numpy, matplotlib, seaborn)
+SQL
+Power BI
+Excel avanzado
+Modelado estadístico y regresión lineal
+Machine Learning básico (scikit-learn)
+
 <!--
 **go-gloria/go-gloria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
