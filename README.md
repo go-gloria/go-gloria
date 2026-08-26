@@ -1,11 +1,16 @@
 ## Mi perfil 👋
 Yo soy Gloria Gómez Osorio, vivo en Concepción, Chile. Soy Bioingeniera de profesión; y me dedico a realizar investigación en el área de las Ciencias Ambientales.
 En específico, tengo experiencia en análisis de calidad de agua (parámetros fisicoquímicos y microbiológicos), monitoreo y operación de humedales construidos 
-(piloto y escala real), evaluación e investigación de tecnologías de tratamiento de aguas residuales, reúso de agua, restauración de cuerpos de agua y calidad ambiental. 
-Desde el año 2016 y hasta el 2025 me desempeñé como coordinadora del grupo de investigación GIBA-UDEC, y como colaboradora en el Centro de Recursos Hídricos para la
-Agricultura y la Minerías (CRHIAM).🌱
+(piloto y escala real), evaluación e investigación de tecnologías de tratamiento de aguas residuales, reúso de agua, restauración de cuerpos de agua y calidad ambiental. Desde el año 2016 y hasta el 2025 me desempeñé como coordinadora del grupo de investigación GIBA-UDEC, y como colaboradora en el Centro de Recursos Hídricos para la Agricultura y la Minerías (CRHIAM).🌱
 
-## 💡Habilidades Técnicas
+## 🎓 Formación Académica
+• Licenciada en Bioingeniería (2015). Facultad de Ciencias Biológicas, Universidad de Concepción. Chile.  
+• Bioingeniera (2016). Facultad de Ciencias Biológicas. Universidad de Concepción. Chile. 
+• Diplomado en Análisis y Gestión del Medio Ambiente (2017). Facultad de Ciencias Ambientales y Centro-EULA. Universidad de Concepción. Chile. 
+• Diploma en Ciencia de Datos (2021). Facultad de Ingeniería. Universidad de Concepción. 
+• Diplomado en Diseño y Programación Web (2023). AIEP de la Universidad Andrés Bello, Sence y Fundación Telefónica Movistar. 
+
+## 💡 Habilidades Técnicas
 •	Python (pandas, numpy, matplotlib, seaborn) <br>
 •	SQL <br>
 •	Power BI <br>
