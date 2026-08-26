@@ -6,7 +6,7 @@ En específico, tengo experiencia en análisis de calidad de agua (parámetros f
 ## 🎓 Formación Académica
 • Licenciada en Bioingeniería (2015). Facultad de Ciencias Biológicas, Universidad de Concepción. Chile.<br>  
 • Bioingeniera (2016). Facultad de Ciencias Biológicas. Universidad de Concepción. Chile. <br>
-• Diplomado en Análisis y Gestión del Medio Ambiente (2017). Facultad de Ciencias Ambientales y Centro-EULA. Universidad de Concepción. Chile.<br> 
+• Diplomado en Análisis y Gestión del Medio Ambiente (2017). Fac. de Cs. Ambientales. Universidad de Concepción. Chile.<br> 
 • Diploma en Ciencia de Datos (2021). Facultad de Ingeniería. Universidad de Concepción. <br>
 • Diplomado en Diseño y Programación Web (2023). AIEP de la Universidad Andrés Bello, Sence y Fundación Telefónica Movistar. <br>
 
