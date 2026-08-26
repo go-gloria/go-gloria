@@ -4,7 +4,7 @@ En específico, tengo experiencia en análisis de calidad de agua (parámetros f
 (piloto y escala real), evaluación e investigación de tecnologías de tratamiento de aguas residuales, reúso de agua, restauración de cuerpos de agua y calidad ambiental. Desde el año 2016 y hasta el 2025 me desempeñé como coordinadora del grupo de investigación GIBA-UDEC, y como colaboradora en el Centro de Recursos Hídricos para la Agricultura y la Minerías (CRHIAM).🌱
 
 ## 🎓 Formación Académica
-• Licenciada en Bioingeniería (2015). Facultad de Ciencias Biológicas, Universidad de Concepción. Chile.<br>  
+• Licenciada en Bioingeniería (2015). Facultad de Ciencias Biológicas, Universidad de Concepción. Chile.
 • Bioingeniera (2016). Facultad de Ciencias Biológicas. Universidad de Concepción. Chile. <br>
 • Diplomado en Análisis y Gestión del Medio Ambiente (2017). Fac. de Cs. Ambientales. Universidad de Concepción. Chile.<br> 
 • Diploma en Ciencia de Datos (2021). Facultad de Ingeniería. Universidad de Concepción. <br>
